@@ -26,7 +26,18 @@ Este projeto é uma carta de boas intenções de minha parte para que a empresa 
 
 1. A réplica:
 
+https://user-images.githubusercontent.com/57818113/160442320-b048511c-6e9d-4d57-8851-d998cf5c1c74.mp4
+
+<br/>
+
 2. Responsividade:
+
+https://user-images.githubusercontent.com/57818113/160444522-581d4d2a-3fa4-46ee-a3f8-066d203ac61e.mp4
+
+
+
+
+
 
 
 
